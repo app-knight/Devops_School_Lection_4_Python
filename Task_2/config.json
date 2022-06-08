@@ -1,0 +1,13 @@
+{
+    "city_name": "Valetta",
+    "request_timeout": 2,
+    "weather_api_url": "https://api.openweathermap.org/data/2.5/weather?lat={0}&lon={1}&appid={2}&units={3}",
+    "geo_api_url": "http://api.openweathermap.org/geo/1.0/direct?q={0}&limit={1}&appid={2}",
+    "units": "metric",
+    "passphrase": "7r5pjmDNuH3mv9JRtVfwLdUkhp8Xsf",
+    "enc_api_key": "5A65eZC8/dkbV9e19HZLFV3MGKDvXWPHuQtAIUmhnoQ=*19psDaQGVzVq2ImPXDSGKg==*T2VqZ8kMKlU94eGDP2YX/Q==*3YSTy39YC1Bx/zDlAfMsCA==",
+    "coordinates": [
+        35.8989818,
+        14.5136759
+    ]
+}
